@@ -1,0 +1,29 @@
+.container{
+    background:blueviolet ;
+}
+.h1{
+    font-family:cursive;
+    
+}
+.body{
+    background: pink;
+}
+.p{
+    color: black;
+}
+.tui{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(200, 255, 0);
+}
+.list-group{
+    font-size: 50px;
+}
+.card-body{
+    background: red;
+
+}
+.card-header{
+    background: blue;
+}
